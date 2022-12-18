@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Chirp/static/css/main.158a7d78.css",
+    "main.js": "/Chirp/static/js/main.eaf34343.js",
+    "static/js/787.d7e2f771.chunk.js": "/Chirp/static/js/787.d7e2f771.chunk.js",
+    "static/media/checkmarkV.png": "/Chirp/static/media/checkmarkV.07e4ab2cde7d1c627bde.png",
+    "static/media/eleyapfp.webp": "/Chirp/static/media/eleyapfp.efa69340f5af3d955d60.webp",
+    "static/media/profile.png": "/Chirp/static/media/profile.473da2123e2bcd941b96.png",
+    "static/media/messages.png": "/Chirp/static/media/messages.1069dad5bb73e3cd24eb.png",
+    "static/media/logo.png": "/Chirp/static/media/logo.1a772e2a66b9234225e8.png",
+    "static/media/profiletest.png": "/Chirp/static/media/profiletest.41bcfbd9319728299ae3.png",
+    "static/media/heart.png": "/Chirp/static/media/heart.0089edac0fd7a2284e82.png",
+    "static/media/searchIcon.png": "/Chirp/static/media/searchIcon.65fcf57a91f1111d0944.png",
+    "static/media/explore.png": "/Chirp/static/media/explore.562ded48d5eb863a2eab.png",
+    "static/media/jopfp.webp": "/Chirp/static/media/jopfp.fe0340a38c6c149ce402.webp",
+    "static/media/jasonpfp.webp": "/Chirp/static/media/jasonpfp.1d74d3773a77c58304c7.webp",
+    "static/media/ericpfp.webp": "/Chirp/static/media/ericpfp.de6481619bf8bd11a81a.webp",
+    "index.html": "/Chirp/index.html",
+    "main.158a7d78.css.map": "/Chirp/static/css/main.158a7d78.css.map",
+    "main.eaf34343.js.map": "/Chirp/static/js/main.eaf34343.js.map",
+    "787.d7e2f771.chunk.js.map": "/Chirp/static/js/787.d7e2f771.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.158a7d78.css",
+    "static/js/main.eaf34343.js"
+  ]
+}
