@@ -20,22 +20,19 @@ This React App is a GT themed Twitter Clone for the GT WebDev 2022 Fall Semester
     $ cd frontend
     ```
 
-
- 5. In the same directory, call the following command:
+5. In the same directory, call the following commands:
     ```shell
     $ npm install
-    ```
-
-4. To install the Twitter embed features, call the following command:
-    ```shell
     $ npm install react-twitter-embed
     ```
 
-5. Finally, to run the React App, call the following command:
+6. Finally, to run the React App, call the following command:
     ```shell
     $ npm start
     ```
-    > This should automatically open a new tab in the default browser and display the Twitter Clone. From this point onwards, calling the `$ npm start` command anytime when in the `frontend` directory should display the React App. Any changes made to the source code will be reflected in the App for as long as the command is running. To terminate the command, hit `ctrl+c` in the command prompt.
+    > This should automatically open a new tab in the default browser and display the Twitter Clone. 
+
+From this point onwards, calling the `$ npm start` command anytime when in the `frontend` directory should display the React App. Any changes made to the source code will be reflected in the App for as long as the command is running. To terminate the command, hit `Ctrl+C` in the command prompt.
 
 ## Contributors
 Jason Lei\
