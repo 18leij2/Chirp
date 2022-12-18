@@ -1,5 +1,5 @@
 # Chirp
-This React App is a GT themed Twitter Clone for the GT WebDev 2022 Fall Semester. You can view the website [here](https://18leij2.github.io/Chirp/).
+This React App is a GT themed Twitter Clone for the GT WebDev 2022 Fall Semester. The website can be viewed [here](https://18leij2.github.io/Chirp/).
 
 ## Project Setup
 1. To set up the project on a Windows device, install [Node.js](https://nodejs.org/en/download/) and [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if not installed already.
