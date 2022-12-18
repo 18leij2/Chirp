@@ -4,4 +4,4 @@ Jason Lei\
 Eric Zhang\
 Daniel Ling\
 Chan Woo Kim\
-Ovais Qureshi\
+Ovais Qureshi
