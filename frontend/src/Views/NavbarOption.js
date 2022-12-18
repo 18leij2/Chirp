@@ -1,3 +1,5 @@
+// Navigation Bar Option Object
+
 import React from 'react';
 import '../CSS/NavbarOption.css';
 

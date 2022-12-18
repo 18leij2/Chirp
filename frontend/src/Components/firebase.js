@@ -1,3 +1,5 @@
+// Commented code for when we expand to databasing
+
 // import { initializeApp } from 'firebase/app';
 // import { getFirestore, collection, getDocs } from 'firebase/firestore/lite';
 

@@ -1,7 +1,8 @@
+// Tweet Box
+
 import React from "react";
 import '../CSS/TweetBox.css';
 import Profile from "../Images/profiletest.png";
-import NavbarOption from '../Views/NavbarOption.js';
 
 function TweetBox() {
     return (

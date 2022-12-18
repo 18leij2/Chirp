@@ -1,6 +1,7 @@
+// Post Object
+
 import React from 'react';
 import '../CSS/Post.css';
-import Profile from "../Images/profiletest.png";
 import Checkmark from "../Images/checkmarkV.png";
 import Chat from "../Images/chat.png";
 import Rechirp from "../Images/rechirp.png";

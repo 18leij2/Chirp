@@ -1,3 +1,5 @@
+// Widgets Section
+
 import React from "react";
 import '../CSS/Widgets.css';
 import SearchIcon from "../Images/searchIcon.png";
