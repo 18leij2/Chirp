@@ -4,8 +4,8 @@ import '../CSS/Feed.css';
 import Post from "../Views/Post.js";
 import Profile from "../Images/profiletest.png";
 import test2 from "../Images/bookmark.png";
-import {db} from "./firebase.js";
-import {collection, query, orderBy, onSnapshot} from "firebase/firestore"
+// import {db} from "./firebase.js";
+// import {collection, query, orderBy, onSnapshot} from "firebase/firestore"
 
 function Feed() {
     const [posts, setPosts] = useState({});
